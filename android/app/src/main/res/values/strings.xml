@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">afridelivery-ionic-app-2023</string>
+    <string name="title_activity_main">afridelivery-ionic-app-2023</string>
+    <string name="package_name">afridelivery.ionic.app.2023</string>
+    <string name="custom_url_scheme">afridelivery.ionic.app.2023</string>
+</resources>

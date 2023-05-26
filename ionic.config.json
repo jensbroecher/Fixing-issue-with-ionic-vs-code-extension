@@ -1,0 +1,7 @@
+{
+  "name": "afridelivery-ionic-app-2023",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
