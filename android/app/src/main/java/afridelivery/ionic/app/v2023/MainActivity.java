@@ -1,4 +1,4 @@
-package afridelivery.ionic.app.2023;
+package afridelivery.ionic.app.v2023;
 
 import com.getcapacitor.BridgeActivity;
 

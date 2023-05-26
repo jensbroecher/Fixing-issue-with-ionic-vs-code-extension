@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "afridelivery.ionic.app.2023"
+    namespace "afridelivery.ionic.app.v2023"
     compileSdkVersion rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "afridelivery.ionic.app.2023"
+        applicationId "afridelivery.ionic.app.v2023"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
